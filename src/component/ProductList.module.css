@@ -1,0 +1,24 @@
+.maindiv {
+    margin: 20px;
+    display: inline-block;
+    margin-left: 70px;
+    border-style: solid;
+  }
+  .mainimage {
+    height: 250px;
+    width: 300px;
+  }
+  .textdiv {
+    background-color: rgba(255, 255, 0, 0.452);
+    box-shadow: 0 0 2px 2px blue;
+    text-align: center;
+  }
+  .buttons {
+    display: flex;
+    justify-content: center;
+  }
+  .buttons button {
+    height: 30px;
+    width: 30px;
+  }
+  

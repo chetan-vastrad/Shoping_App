@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .navbar {
+    margin-top: 10px;
+  }
+  .maindiv {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .maindiv ul {
+    display: flex;
+    list-style: none;
+    gap: 40px;
+  }
+  span {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: red;
+    width: 13px;
+    height: 13px;
+    border-radius: 50px;
+    position: absolute;
+    left: 95.8%;
+    top: 24px;
+    font-size: 13px;
+  }
+  .blueLine{
+    height: 4vh;
+    width: 100wh;
+    background-color: rgb(230, 210, 210);
+    text-align: center;
+    color:darkred;
+  }

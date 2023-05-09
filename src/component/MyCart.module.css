@@ -1,0 +1,24 @@
+.maindiv {
+  background-color: rgba(255, 153, 0, 0.123);
+  box-shadow: 0 0 2px 2px rgba(128, 128, 128, 0.473);
+  margin: 30px;
+  width: 70%;
+  height: 40vh;
+}
+.price {
+  display: flex;
+  justify-content: end;
+}
+.mobileimage {
+  height: 30vh;
+  width: 30vh;
+  border-radius: 10px;
+  margin: 4% 0 0 3%;
+  
+}
+.imagedescription{
+    display: flex;
+}
+.discription{
+margin: 8% 0 10px 7%;
+}
